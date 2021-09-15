@@ -1,1 +1,3 @@
-class Policy {}
+class Policy {
+	void fund()
+}
